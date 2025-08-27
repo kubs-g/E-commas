@@ -31,7 +31,7 @@ Admin Routes
 
 Admin-only product & order management
 
-🛠# Tech Stack
+# Tech Stack
 
 Node.js + Express.js
 
