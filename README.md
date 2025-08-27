@@ -1,4 +1,4 @@
-#E-Commerce Backend API
+# E-Commerce Backend API
 
 This project is a RESTful API built with Node.js, Express, and MySQL for an e-commerce platform.
 It supports user authentication, product management, order management, and role-based access control.
